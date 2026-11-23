@@ -1,0 +1,623 @@
+{
+  "Productos": [
+    {
+      "nombre": "Laptop Lenovo",
+      "precio": 3200000,
+      "stock": 10,
+      "id": "xRZ019Qv3tY"
+    },
+    {
+      "nombre": "Mouse Logitech",
+      "precio": 85000,
+      "stock": 50,
+      "id": "qrfLJ1RfAQg"
+    },
+    {
+      "nombre": "Teclado Mecánico",
+      "precio": 180000,
+      "stock": 20,
+      "id": "YRQbrk5f2ZQ"
+    },
+    {
+      "nombre": "Monitor Samsung",
+      "precio": 950000,
+      "stock": 20,
+      "id": "jYNZSPzxg1Y"
+    },
+    {
+      "nombre": "Tablet Samsung",
+      "precio": 1200000,
+      "stock": 18,
+      "id": "eFnZ6hQGf0Y"
+    },
+    {
+      "nombre": "Audífonos Sony",
+      "precio": 220000,
+      "stock": 40,
+      "id": "N39jOpPH_L8"
+    },
+    {
+      "nombre": "Disco SSD Kingston",
+      "precio": 320000,
+      "stock": 25,
+      "id": "4tFj8h3tHnM"
+    },
+    {
+      "nombre": "Webcam Logitech",
+      "precio": 150000,
+      "stock": 35,
+      "id": "Lyk_1B67CqU"
+    },
+    {
+      "nombre": "Parlante JBL",
+      "precio": 280000,
+      "stock": 22,
+      "id": "SqeTqMWezUM"
+    },
+    {
+      "nombre": "Laptop Acer",
+      "precio": 3000000,
+      "stock": 100,
+      "id": "M0zxek1vM1g"
+    }
+  ],
+  "Usuarios": [
+    {
+      "nombre": "Carlos Pérez",
+      "correo": "carlos@gmail.com",
+      "edad": 25,
+      "id": "j5uB5rZgOoE"
+    },
+    {
+      "nombre": "María Gómez",
+      "correo": "maria@gmail.com",
+      "edad": 30,
+      "id": "fmWi3HdBmJI"
+    },
+    {
+      "nombre": "Juan Rodríguez",
+      "correo": "juan@gmail.com",
+      "edad": 22,
+      "id": "cf6zPv2ZYoI"
+    },
+    {
+      "nombre": "Laura Martínez",
+      "correo": "lauramar@gmail.com",
+      "edad": 30,
+      "id": "2hFo22obAM0"
+    },
+    {
+      "nombre": "Andrés López",
+      "correo": "andres@gmail.com",
+      "edad": 37,
+      "id": "NwZtQ5A0iCg"
+    },
+    {
+      "nombre": "Sofía Torres",
+      "correo": "sofia@gmail.com",
+      "edad": 24,
+      "id": "TrjNI2NcuOQ"
+    },
+    {
+      "nombre": "Daniel Ramírez",
+      "correo": "daniel@gmail.com",
+      "edad": 31,
+      "id": "fQhuZySL6zc"
+    },
+    {
+      "nombre": "Valentina Castro",
+      "correo": "valentina@gmail.com",
+      "edad": 27,
+      "id": "j3vAws1MuTM"
+    },
+    {
+      "nombre": "Camila Herrera",
+      "correo": "camila@gmail.com",
+      "edad": 29,
+      "id": "cDWktdJ1arU"
+    },
+    {
+      "nombre": "Pablo Escobar",
+      "correo": "pabloemilio@gmail.com",
+      "edad": 15,
+      "id": "nv8noyrxnBQ"
+    }
+  ],
+  "Compañías": [
+    {
+      "nombre": "TechSolutions",
+      "sector": "Tecnología",
+      "ciudad": "Medellín",
+      "id": "NTcOO68TJOE"
+    },
+    {
+      "nombre": "Comercial Andina",
+      "sector": "Comercio",
+      "ciudad": "Bogotá",
+      "id": "9bTfjiA5XTw"
+    },
+    {
+      "nombre": "Salud Integral",
+      "sector": "Salud",
+      "ciudad": "Cali",
+      "id": "ACznevVcRbQ"
+    },
+    {
+      "nombre": "Constructora del Valle",
+      "sector": "Construcción",
+      "ciudad": "Cali",
+      "id": "Bql7ij_MCiM"
+    },
+    {
+      "nombre": "EducaPlus",
+      "sector": "Educación",
+      "ciudad": "Medellín",
+      "id": "bUGaQfUd6rM"
+    },
+    {
+      "nombre": "AgroFruto",
+      "sector": "Agricultura",
+      "ciudad": "Bogotá",
+      "id": "CFNYC0wbDNQ"
+    },
+    {
+      "nombre": "Finanzas el mundo",
+      "sector": "Finanzas",
+      "ciudad": "Bogotá",
+      "id": "QzgLHsxWQOk"
+    },
+    {
+      "nombre": "Moda Urbana",
+      "sector": "Textil",
+      "ciudad": "Bucaramanga",
+      "id": "zZbfILEFrUY"
+    },
+    {
+      "nombre": "EcoEnergía",
+      "sector": "Energía",
+      "ciudad": "Manizales",
+      "id": "W3lvdleFsZ4"
+    },
+    {
+      "nombre": "MultiTech",
+      "sector": "Tecnología",
+      "ciudad": "Medellín",
+      "id": "l4TdHiqb9G8"
+    }
+  ],
+  "Empleados": [
+    {
+      "nombre": "Jorge Ramírez",
+      "cargo": "Administrador",
+      "salario": 3500000,
+      "id": "2tM5Nl8wOHM"
+    },
+    {
+      "nombre": "Ana Torres",
+      "cargo": "Contadora",
+      "salario": 3000000,
+      "id": "4qZgs7HZ7DE"
+    },
+    {
+      "nombre": "Luis Amador",
+      "cargo": "Dev-Ops",
+      "salario": 10000000,
+      "id": "BhcsDZWZJVA"
+    },
+    {
+      "nombre": "Paula Castro",
+      "cargo": "Diseñadora",
+      "salario": 3200000,
+      "id": "gcaQJfpYdx0"
+    },
+    {
+      "nombre": "Miguel Sánchez",
+      "cargo": "Lider de ventas",
+      "salario": 2200000,
+      "id": "tOY89AaKqxE"
+    },
+    {
+      "nombre": "Diana López",
+      "cargo": "Gerente",
+      "salario": 6000000,
+      "id": "iX0xHDGE0LA"
+    },
+    {
+      "nombre": "Felipe Gómez",
+      "cargo": "Analista",
+      "salario": 3800000,
+      "id": "X4gNjkZndJQ"
+    },
+    {
+      "nombre": "Natalia Pérez",
+      "cargo": "Secretaria",
+      "salario": 2000000,
+      "id": "TD0ZjKs0a7s"
+    },
+    {
+      "nombre": "Sebastián Díaz",
+      "cargo": "Ingeniero",
+      "salario": 5000000,
+      "id": "JOOdF3Bd-30"
+    },
+    {
+      "nombre": "Gastón Guerrero",
+      "cargo": "Developer",
+      "salario": 7000000,
+      "id": "XM5_8vjh2SM"
+    }
+  ],
+  "Clientes": [
+    {
+      "nombre": "Roberto Díaz",
+      "telefono": "3001234567",
+      "direccion": "Calle 10 #20-30, Medellín",
+      "id": "M9Y7YNJmrQI"
+    },
+    {
+      "nombre": "Lucía Fernández",
+      "telefono": "3012345678",
+      "direccion": "Carrera 15 #40-20, Bogotá",
+      "id": "dxyz-gp8CXQ"
+    },
+    {
+      "nombre": "Miles Morales",
+      "telefono": "3023456789",
+      "direccion": "Calle 25 #15-10, Medellín",
+      "id": "7jGgsuw6ce4"
+    },
+    {
+      "nombre": "Elena Ruiz",
+      "telefono": "3034567890",
+      "direccion": "Carrera 8 #12-45, Pereira",
+      "id": "3GslenY0XXU"
+    },
+    {
+      "nombre": "Mateo Vargas",
+      "telefono": "3045678901",
+      "direccion": "Calle 30 #50-60, Manizales",
+      "id": "jr9Y3LPqkVE"
+    },
+    {
+      "nombre": "Gabriela Ortiz",
+      "telefono": "3056789012",
+      "direccion": "Carrera 20 #10-15, Medellín",
+      "id": "-J1B9-J5DQs"
+    },
+    {
+      "nombre": "Tomás Torres",
+      "telefono": "3067890123",
+      "direccion": "Calle 5 #25-35, Bogotá",
+      "id": "wWVF1UNt4VM"
+    },
+    {
+      "nombre": "Daniela Rojas",
+      "telefono": "3078901234",
+      "direccion": "Carrera 12 #30-40, Cali",
+      "id": "tlHWEfkwBI0"
+    },
+    {
+      "nombre": "Mariana León",
+      "telefono": "3090123456",
+      "direccion": "Carrera 7 #16-25, Bucaramanga",
+      "id": "L7W9_SKDIZU"
+    },
+    {
+      "nombre": "Peter Parker",
+      "telefono": "3010203485",
+      "direccion": "Calle 10 #67-69, Bogotá",
+      "id": "mYO28x4qfEM"
+    }
+  ],
+  "Proveedores": [
+    {
+      "nombre": "Distribuidora Central",
+      "contacto": "Pedro Gómez",
+      "ciudad": "Medellín",
+      "id": "shJB_DMwy6c"
+    },
+    {
+      "nombre": "TecnoImport",
+      "contacto": "Laura Pérez",
+      "ciudad": "Bogotá",
+      "id": "Dm3YI1y4Wrs"
+    },
+    {
+      "nombre": "Suministros del Valle",
+      "contacto": "Carlos Ruiz",
+      "ciudad": "Cali",
+      "id": "7OMSO9JlyCk"
+    },
+    {
+      "nombre": "ElectroLux",
+      "contacto": "Ana López Barrido",
+      "ciudad": "Santa Marta",
+      "id": "Tx-NT2b13M0"
+    },
+    {
+      "nombre": "Papelería Nacional",
+      "contacto": "Jorge Díaz",
+      "ciudad": "Pereira",
+      "id": "awniClxpLlg"
+    },
+    {
+      "nombre": "Muebles Modernos",
+      "contacto": "Sofía Castro",
+      "ciudad": "Manizales",
+      "id": "_6mZv_gm4yY"
+    },
+    {
+      "nombre": "Alimentos Selectos",
+      "contacto": "Luis Torres",
+      "ciudad": "Armenia",
+      "id": "eJafwyPwk-c"
+    },
+    {
+      "nombre": "Importadora Global",
+      "contacto": "Camila Herrera",
+      "ciudad": "Bogotá",
+      "id": "RyQLlSomBFE"
+    },
+    {
+      "nombre": "Repuestos Express",
+      "contacto": "Andrés Moreno",
+      "ciudad": "Medellín",
+      "id": "R7pz2S4143g"
+    },
+    {
+      "nombre": "Plaza mayorista",
+      "contacto": "Pibe Valderrama",
+      "ciudad": "Medellín",
+      "id": "LoZIt388QZo"
+    }
+  ],
+  "Libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "anio": 1967,
+      "id": "6BPMjh_9vs0"
+    },
+    {
+      "titulo": "El principito",
+      "autor": "Antoine",
+      "anio": 1943,
+      "id": "FrVVCW5MZkU"
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes Saavedra",
+      "anio": 1605,
+      "id": "HnbON0z7vSk"
+    },
+    {
+      "titulo": "La vorágine",
+      "autor": "José Eustasio Rivera",
+      "anio": 1924,
+      "id": "k4J0tvN6Ym0"
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "anio": 1949,
+      "id": "C_iqSBhzrzk"
+    },
+    {
+      "titulo": "El amor en los tiempos del cólera",
+      "autor": "Gabriel García Márquez",
+      "anio": 1985,
+      "id": "DlY49kD-RYw"
+    },
+    {
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "anio": 1963,
+      "id": "Ro43H4hhWac"
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "anio": 1813,
+      "id": "8xPnhIDsWXw"
+    },
+    {
+      "titulo": "La ciudad y los perros",
+      "autor": "Mario Vargas Llosa",
+      "anio": 1963,
+      "id": "LLNbPVJimhk"
+    },
+    {
+      "titulo": "Nada",
+      "autor": "Jane Teller",
+      "anio": 2010,
+      "id": "gvaDlhEnWvQ"
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "Programación en Python",
+      "duracion": 40,
+      "nivel": "Básico",
+      "id": "Jx-JzCXhuQQ"
+    },
+    {
+      "nombre": "Desarrollo Web",
+      "duracion": 60,
+      "nivel": "Intermedio",
+      "id": "KHBHX22OdIM"
+    },
+    {
+      "nombre": "Bases de Datos",
+      "duracion": 50,
+      "nivel": "Intermedio",
+      "id": "JSPMDvcDPto"
+    },
+    {
+      "nombre": "Diseño Gráfico",
+      "duracion": 70,
+      "nivel": "Intermedio",
+      "id": "GxpLLuiBh1M"
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "duracion": 120,
+      "nivel": "Avanzado",
+      "id": "L_cPrtf7JRA"
+    },
+    {
+      "nombre": "Marketing Digital",
+      "duracion": 30,
+      "nivel": "Básico",
+      "id": "odcFgEuHJ9I"
+    },
+    {
+      "nombre": "Ciberseguridad",
+      "duracion": 70,
+      "nivel": "Avanzado",
+      "id": "29YxY_WxJdA"
+    },
+    {
+      "nombre": "Desarrollo de Aplicaciones",
+      "duracion": 90,
+      "nivel": "Avanzado",
+      "id": "2VNa5A3re88"
+    },
+    {
+      "nombre": "Administración de Empresas",
+      "duracion": 45,
+      "nivel": "Intermedio",
+      "id": "75VhUHvaXBM"
+    },
+    {
+      "nombre": "Programación en móvil con Flutter y Dart",
+      "duracion": 120,
+      "nivel": "Avanzado",
+      "id": "sysoDD57X7s"
+    }
+  ],
+  "Vehículos": [
+    {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "placa": "ABC123",
+      "id": "Q4CTfusVNpQ"
+    },
+    {
+      "marca": "Renault",
+      "modelo": "Logan",
+      "placa": "GHI789",
+      "id": "KfqqeyOopyY"
+    },
+    {
+      "marca": "Mazda",
+      "modelo": "Mazda 3",
+      "placa": "JKL234",
+      "id": "9bo5TT7z2tg"
+    },
+    {
+      "marca": "Kia",
+      "modelo": "Cerato",
+      "placa": "MNO669",
+      "id": "TVP3cDM38z8"
+    },
+    {
+      "marca": "Nissan",
+      "modelo": "Versa",
+      "placa": "PQR890",
+      "id": "TyzWEZp1PLQ"
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": "Accent",
+      "placa": "STU123",
+      "id": "-2QexMZB-s0"
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "placa": "VWX456",
+      "id": "HUralLW5Zos"
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Gol",
+      "placa": "YZA789",
+      "id": "SxsEjJQ98EM"
+    },
+    {
+      "marca": "Honda",
+      "modelo": "Civic",
+      "placa": "BCD234",
+      "id": "Ml1MFxH--hs"
+    },
+    {
+      "marca": "Audi",
+      "modelo": "A8",
+      "placa": "FFF000",
+      "id": "nBCMnY-IH6s"
+    }
+  ],
+  "Pedidos": [
+    {
+      "descripcion": "Compra de laptop Lenovo",
+      "total": 2500000,
+      "estado": "Entregado",
+      "id": "9DUGcFNooVA"
+    },
+    {
+      "descripcion": "Compra de monitor Samsung",
+      "total": 950000,
+      "estado": "En proceso",
+      "id": "SLyN9l7mPMo"
+    },
+    {
+      "descripcion": "Compra de impresora HP",
+      "total": 750000,
+      "estado": "Entregado",
+      "id": "lb-IpUxZ3Nw"
+    },
+    {
+      "descripcion": "Compra de tablet Samsung extra grande",
+      "total": 1400000,
+      "estado": "En proceso",
+      "id": "92BjJqFHnus"
+    },
+    {
+      "descripcion": "Compra de audífonos Sony",
+      "total": 220000,
+      "estado": "Pagado",
+      "id": "PRYWYFl6w_c"
+    },
+    {
+      "descripcion": "Compra de disco SSD",
+      "total": 320000,
+      "estado": "Entregado",
+      "id": "FT_LhbwmvxU"
+    },
+    {
+      "descripcion": "Compra de webcam Logitech",
+      "total": 150000,
+      "estado": "En proceso",
+      "id": "w2QiRMmxp6Y"
+    },
+    {
+      "descripcion": "Compra de parlante JBL",
+      "total": 280000,
+      "estado": "Entregado",
+      "id": "7mZLMcnIjSs"
+    },
+    {
+      "descripcion": "Compra de teclado mecánico",
+      "total": 180000,
+      "estado": "Pendiente",
+      "id": "LzMp0xmeIp4"
+    },
+    {
+      "descripcion": "Compra de monitor Xiaomi",
+      "total": 600000,
+      "estado": "Entregado",
+      "id": "cdqP7x5pRGE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
